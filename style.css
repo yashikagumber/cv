@@ -1,0 +1,20 @@
+body
+{ background-color: aqua;
+border-style: dashed;
+}
+hr
+{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: Black;
+  border-width: 5px;
+  width: 5%
+  }
+  h1
+  {
+    color: violet;
+  }
+h3
+{
+  color: violet;
+}
